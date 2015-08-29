@@ -1,0 +1,18 @@
+[29-Aug-2015 00:16:36 UTC] PHP Notice:  Constant CSTART already defined in C:\wamp\www\config.inc.php on line 10
+[29-Aug-2015 00:16:36 UTC] PHP Stack trace:
+[29-Aug-2015 00:16:36 UTC] PHP   1. {main}() C:\wamp\www\index.php:0
+[29-Aug-2015 00:16:36 UTC] PHP   2. require() C:\wamp\www\index.php:9
+[29-Aug-2015 00:16:36 UTC] PHP   3. Structure::create() C:\wamp\www\brophp\brophp.php:112
+[29-Aug-2015 00:16:36 UTC] PHP   4. include() C:\wamp\www\brophp\bases\structure.class.php:97
+[29-Aug-2015 00:16:36 UTC] PHP   5. define() C:\wamp\www\config.inc.php:10
+[29-Aug-2015 00:16:36 UTC] PHP Notice:  Constant TPLSTYLE already defined in C:\wamp\www\config.inc.php on line 13
+[29-Aug-2015 00:16:36 UTC] PHP Stack trace:
+[29-Aug-2015 00:16:36 UTC] PHP   1. {main}() C:\wamp\www\index.php:0
+[29-Aug-2015 00:16:36 UTC] PHP   2. require() C:\wamp\www\index.php:9
+[29-Aug-2015 00:16:36 UTC] PHP   3. Structure::create() C:\wamp\www\brophp\brophp.php:112
+[29-Aug-2015 00:16:36 UTC] PHP   4. include() C:\wamp\www\brophp\bases\structure.class.php:97
+[29-Aug-2015 00:16:36 UTC] PHP   5. define() C:\wamp\www\config.inc.php:13
+[29-Aug-2015 00:16:36 UTC] PHP Notice:  Undefined index: debug in C:\wamp\www\brophp\brophp.php on line 152
+[29-Aug-2015 00:16:36 UTC] PHP Stack trace:
+[29-Aug-2015 00:16:36 UTC] PHP   1. {main}() C:\wamp\www\index.php:0
+[29-Aug-2015 00:16:36 UTC] PHP   2. require() C:\wamp\www\index.php:9
